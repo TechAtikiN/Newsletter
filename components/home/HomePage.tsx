@@ -4,7 +4,7 @@ import Input from "./Input"
 const Home = () => {
   return (
     <div>
-      {/* <Banner /> */}
+      <Banner />
 
       <Input />
     </div>

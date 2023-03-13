@@ -1,6 +1,6 @@
 const Banner = () => {
   return (
-    <div className='h-96 mt-10 flex justify-between'>
+    <div className='h-96 flex justify-between'>
       <div className='bg-pink-200 w-full px-8 pt-7'>
         <img
           className=''
