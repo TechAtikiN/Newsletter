@@ -1,4 +1,4 @@
-import { useForm } from "react-hook-form"
+import { useForm } from 'react-hook-form'
 
 type FormData = {
   name: string;
@@ -18,7 +18,7 @@ const Input = () => {
       }
     })
     const final = await response.json()
-    console.log(final)
+    alert('Check your inbox already!')
   }
 
   return (

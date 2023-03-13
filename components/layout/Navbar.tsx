@@ -15,7 +15,7 @@ const Navbar = () => {
       </div>
 
       <div>
-        <button className='text-xl hover:scale-105 transition-all duration-200 text-white bg-purple-500 hover:bg-purple-600 px-6 py-4 w-full rounded-full'>Contact</button>
+        <button className='text-xl hover:scale-105 transition-all duration-200 text-white bg-purple-500 hover:bg-purple-600 px-3 py-3 m-3 w-full rounded-full'>Contact</button>
       </div>
     </nav>
   )
